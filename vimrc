@@ -2,6 +2,10 @@
 runtime bundle/pathogen/autoload/pathogen.vim
 execute pathogen#infect()
 
+" Set up Solarized
+set background=dark
+colorscheme solarized
+
 " Set the shell to POSIX compliant
 if $SHELL =~ 'bin/fish'
     set shell=/bin/sh
