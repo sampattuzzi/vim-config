@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/home/sam/project/src/ypnos/Ypnos'
+let g:netrw_dirhist_2='/home/sam/project/src/ypnos/Ypnos/Core'
+let g:netrw_dirhist_3='/home/sam/project/src/ypnos/Ypnos'
+let g:netrw_dirhist_4='/home/sam/project/src/ypnos/Ypnos/Core'
+let g:netrw_dirhist_5='/home/sam/project/src/accelerate/Data/Array/Accelerate/Analysis'
+let g:netrw_dirhist_6='/home/sam/project/src/ypnos/dist/build/autogen'
+let g:netrw_dirhist_7='/home/sam/project/src/accelerate'
+let g:netrw_dirhist_8='/home/sam/project/src/ypnos/dist/src'
