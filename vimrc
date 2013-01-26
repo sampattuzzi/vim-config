@@ -1,3 +1,7 @@
+" Set up Pathogen
+runtime bundle/pathogen/autoload/pathogen.vim
+execute pathogen#infect()
+
 " Set the shell to POSIX compliant
 if $SHELL =~ 'bin/fish'
     set shell=/bin/sh
